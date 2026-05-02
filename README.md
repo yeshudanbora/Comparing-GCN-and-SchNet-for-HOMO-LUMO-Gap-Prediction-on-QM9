@@ -1,0 +1,1 @@
+# Comparing-GCN-and-SchNet-for-HOMO-LUMO-Gap-Prediction-on-QM9
