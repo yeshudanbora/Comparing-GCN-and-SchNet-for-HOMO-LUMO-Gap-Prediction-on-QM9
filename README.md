@@ -35,8 +35,6 @@ PyTorch Geometric's `SchNet` implementation calls `torch_cluster.radius_graph` t
 
 ## How to reproduce the report results
 
-### Option A — full retraining 
-
 1. Open `qm9_gcn_vs_schnet.ipynb` on Kaggle with a GPU runtime.
 2. Run all cells top-to-bottom. The notebook is structured as:
    - **Section 1–4:** environment, data loading, model definitions, training loop
